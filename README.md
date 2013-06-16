@@ -1,0 +1,4 @@
+NhibernateGen
+=============
+
+simple nHibernate generator
